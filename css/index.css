@@ -7,6 +7,7 @@
 body{
     font-family: Roboto, sans-serif;
     background-color: #f0f0f0;
+    
 
 }
 
@@ -23,6 +24,9 @@ main{
     width: 100%;
     padding: 0.625rem;
     font-size: 1rem;
+    border-radius: 0.35rem;
+    
+    
 }
 
 .cidade {
